@@ -1,19 +1,41 @@
-<div align="center">
-  <img src="https://img.shields.io/badge/QQ-3442006415-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white" />
-</div>
-
-## 我使用的开发语言
+## 📊 我的看板
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wojusensei&layout=donut&theme=radical" alt="编程语言占比" />
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="width: 50%; text-align: center; vertical-align: middle;">
+      <b>📈 开发语言占比</b><br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wojusensei&layout=donut&theme=transparent" alt="语言占比" />
+    </td>
+    <td style="width: 50%;">
+      <table style="width: 100%; border-collapse: collapse;">
+        <tr>
+          <td style="text-align: center;">
+            <b> 每日编码热力图</b><br>
+            <a href="https://profile-summary-for-github.com/user/Wojusensei/">
+              <img src="https://profile-summary-for-github.com/user/Wojusensei/summary-card.png" alt="每日工作热力图" style="max-height: 160px;" />
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td style="text-align: center;">
+            <b>🐧 联系我</b><br>
+            <img src="https://img.shields.io/badge/QQ-3442006415-12B7F5?logo=tencentqq&logoColor=white" /><br>
+            <img src="https://komarev.com/ghpvc/?username=Wojusensei&color=blue&style=flat" />
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 </div>
 
-## 我的每日工作时间分布
+## 我的commit
 
-<div align="center">
-
-[![每日工作热力图](https://profile-summary-for-github.com/user/Wojusensei/summary-card.png)](https://profile-summary-for-github.com/user/Wojusensei/)
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wojusensei/Wojusensei/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wojusensei/Wojusensei/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Wojusensei/Wojusensei/output/github-contribution-grid-snake.svg" />
+</picture>
