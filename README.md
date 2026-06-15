@@ -22,10 +22,6 @@
           <td style="text-align: center;">
             <b>🐧 联系我</b><br>
             <img src="https://img.shields.io/badge/QQ-3442006415-12B7F5?logo=tencentqq&logoColor=white" /><br>
-            <b>💻 开发设备占比</b><br>
-            <img src="https://img.shields.io/badge/macOS-51%25-000000?logo=apple&logoColor=white"><br>
-            <img src="https://img.shields.io/badge/Windows-48%25-0078D6?logo=windows&logoColor=white"><br>
-            <img src="https://img.shields.io/badge/Linux-1%25-FCC624?logo=linux&logoColor=black"><br>
             <img src="https://komarev.com/ghpvc/?username=Wojusensei&color=blue&style=flat" />
            </td
         </tr>
@@ -35,10 +31,3 @@
 </table>
 
 </div>
-
-## 我的commit
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wojusensei/Wojusensei/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wojusensei/Wojusensei/output/github-contribution-grid-snake.svg" />
-</picture>
