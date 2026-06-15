@@ -12,7 +12,7 @@
       <table style="width: 100%; border-collapse: collapse;">
         <tr>
           <td style="text-align: center;">
-            <b>📅 每日编码热力图</b><br>
+            <b> 每日编码热力图</b><br>
             <a href="https://profile-summary-for-github.com/user/Wojusensei/">
               <img src="https://profile-summary-for-github.com/user/Wojusensei/summary-card.png" alt="每日工作热力图" style="max-height: 160px;" />
             </a>
@@ -20,7 +20,7 @@
         </tr>
         <tr>
           <td style="text-align: center;">
-            <b>♿️ QQ号 ♿️</b><br>
+            <b>🐧 联系我</b><br>
             <img src="https://img.shields.io/badge/QQ-3442006415-12B7F5?logo=tencentqq&logoColor=white" /><br>
             <b>💻 开发设备占比</b><br>
             <img src="https://img.shields.io/badge/macOS-51%25-000000?logo=apple&logoColor=white"><br>
@@ -32,7 +32,7 @@
       </table>
     </td
   </tr>
-</tr>
+</table>
 
 </div>
 
