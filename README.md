@@ -6,7 +6,7 @@
   <tr>
     <td style="width: 50%; text-align: center; vertical-align: middle;">
       <b>📈 开发语言占比</b><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wojusensei&layout=donut&theme=transparent" alt="语言占比" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wojusensei&layout=compact&theme=radical&title_color=f871c4&hide=tex" alt="语言占比" />
     </td>
     <td style="width: 50%;">
       <table style="width: 100%; border-collapse: collapse;">
