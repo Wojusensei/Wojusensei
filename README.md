@@ -36,7 +36,7 @@
 
 </div>
 
-## 我的commit
+## My contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wojusensei/Wojusensei/output/github-contribution-grid-snake-dark.svg" />
