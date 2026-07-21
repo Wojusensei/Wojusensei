@@ -10,6 +10,11 @@
 ![](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=GitHubActions&logoColor=fff)
 ![](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=fff)
 
+### Overall Status
+
+[![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=006lp&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
+![006lp](https://count.getloli.com/get/@wojusensei)
+
 
 ## 📊 about me
 
