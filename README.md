@@ -17,7 +17,7 @@
 
 
 ## chat with me
-[![QQ](https://img.icons8.com/color/48/000000/qq.png)](https://wpa.qq.com/msgrd?v=3&uin=3442006415&site=qq&menu=yes)
+[![QQ](https://img.icons8.com/color/48/000000/qq.png)]([https://wpa.qq.com/msgrd?v=3&uin=3442006415&site=qq&menu=yes](https://qun.qq.com/universal-share/share?ac=1&authKey=VBHHWRUSUFo7nPhojVB1FWRiQivmZdNyf9gQg3QXq3L3ImisvlS4qIfGBYNIuQcv&busi_data=eyJncm91cENvZGUiOiI4MjYxMzYwMDgiLCJ0b2tlbiI6IlBKUmZjSDhXaHlFV0tjemxDMFVCMzFzeExYdVpOZkZKWDYySVd1cG5NbE9HU2JGdmpDT0x5V3R6VzEra3VUajkiLCJ1aW4iOiIzNDQyMDA2NDE1In0%3D&data=o5oc6d1Ch2yaZmBpizKY3QBkR6cWHXuO-GfydewgP45op4rLZTfgd792Nr7iYgZVkuc3C5nkBUR45YaCiCbaNw&svctype=4&tempid=h5_group_info))
 
 
 ## 💡 My contributions
