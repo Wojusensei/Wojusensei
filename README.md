@@ -21,7 +21,7 @@
 ![wojusensei](https://count.getloli.com/get/@wojusensei)
 
 
-## 🏁 **join Touhou Utopian Ops**
+## 🪐 **join Touhou Utopian Ops**
 [![QQ](https://img.icons8.com/color/48/000000/qq.png)](https://qm.qq.com/cgi-bin/qm/qr?k=cI0er3PAf5cVGgmrz0JoNPr67vy3Sr-N&jump_from=webapi&authKey=bXt5xv3V7PcQhdKUBJGkxihzbCCElrSYLWaiKtPbSZ8p9JcwGAwml2h//y4Y2n5U)：This is a college-student-centered entertainment club that is passionate about game development.
 
 ## ⭐️ **Work Log**
