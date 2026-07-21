@@ -21,13 +21,22 @@
 ![wojusensei](https://count.getloli.com/get/@wojusensei)
 
 
-## 🏁 join the Touhou Utopian Ops
-[![QQ](https://img.icons8.com/color/48/000000/qq.png)](https://qm.qq.com/cgi-bin/qm/qr?k=cI0er3PAf5cVGgmrz0JoNPr67vy3Sr-N&jump_from=webapi&authKey=bXt5xv3V7PcQhdKUBJGkxihzbCCElrSYLWaiKtPbSZ8p9JcwGAwml2h//y4Y2n5U)
+## 🏁 join Touhou Utopian Ops
+[![QQ](https://img.icons8.com/color/48/000000/qq.png)](https://qm.qq.com/cgi-bin/qm/qr?k=cI0er3PAf5cVGgmrz0JoNPr67vy3Sr-N&jump_from=webapi&authKey=bXt5xv3V7PcQhdKUBJGkxihzbCCElrSYLWaiKtPbSZ8p9JcwGAwml2h//y4Y2n5U)：This is a college-student-centered entertainment club that is passionate about game development.
 
-This is a college-student-centered entertainment club that is passionate about game development.
+## ⭐️ work log
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=277260326&image_size=auto&color_scheme=dark"
+      width="771" height="auto">
+    <img alt="Dashboard stats"
+      src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=277260326&image_size=auto&color_scheme=light"
+      width="771" height="auto">
+  </picture>
+</p>
 
-
-## 💡 My contributions
+## 💫 My contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wojusensei/Wojusensei/output/github-contribution-grid-snake-dark.svg" />
