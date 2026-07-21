@@ -17,7 +17,7 @@
 
 
 ## chat with me
-[![QQ](https://img.icons8.com/color/48/000000/qq.png)](mqq://im/chat?chat_type=wpa&uin=3442006415&version=1)
+[![QQ](https://img.icons8.com/color/48/000000/qq.png)](https://wpa.qq.com/msgrd?v=3&uin=3442006415&site=qq&menu=yes)
 
 
 ## 💡 My contributions
