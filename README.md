@@ -1,6 +1,5 @@
-## test
+## 🌟 **My Skills**  
 
-🌟 **My Skills**  
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=fff)
 ![](https://img.shields.io/badge/-React-2d98ce?style=flat-square&logo=React&logoColor=fff)
@@ -50,7 +49,7 @@
 
 </div>
 
-## My contributions
+## 💡 My contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wojusensei/Wojusensei/output/github-contribution-grid-snake-dark.svg" />
