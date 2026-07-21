@@ -22,7 +22,9 @@
 
 
 ## ⛩️  **Join Touhou Utopian Ops**
-[![QQ](https://img.icons8.com/color/48/000000/qq.png)](https://qm.qq.com/cgi-bin/qm/qr?k=cI0er3PAf5cVGgmrz0JoNPr67vy3Sr-N&jump_from=webapi&authKey=bXt5xv3V7PcQhdKUBJGkxihzbCCElrSYLWaiKtPbSZ8p9JcwGAwml2h//y4Y2n5U)**東方空想神社**：This is a student organization focused on game development, music production, band arrangement, and ACG culture exchange. Founded by me in 2024, it is primarily composed of college students. If ur interested in software development, bands, or ACG culture, ur welcome to join our QQ group. When applying, plz provide a detailed description of ur interest in joining, which will help our moderators review your application.
+[![QQ](https://img.icons8.com/color/48/000000/qq.png)](https://qm.qq.com/cgi-bin/qm/qr?k=cI0er3PAf5cVGgmrz0JoNPr67vy3Sr-N&jump_from=webapi&authKey=bXt5xv3V7PcQhdKUBJGkxihzbCCElrSYLWaiKtPbSZ8p9JcwGAwml2h//y4Y2n5U)：This is a student organization focused on game development, music production, band arrangement, and ACG culture exchange. Founded by me in 2024, it is primarily composed of college students. If ur interested in software development, bands, or ACG culture, ur welcome to join our QQ group. When applying, plz provide a detailed description of ur interest in joining, which will help our moderators review your application.Looking forward to having u :)
+
+*tips: we're cn gang btw.
 
 
 
