@@ -33,6 +33,10 @@
 
 *tips: we're cn gang btw ：）
 
+<!-- 
+  兑，中文社区（目移）
+-->
+
 ## 🦄  **My Activity Graph**
 
 <p align="center">
