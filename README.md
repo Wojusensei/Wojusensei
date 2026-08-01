@@ -22,6 +22,7 @@
 ![vue](https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=vue.js&logoColor=fff)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=fff)
 ![nj](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=fff)
+[![vsc](https://img.shields.io/badge/Tool-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/) [![](https://img.shields.io/badge/Tool-ReSharper-green?style=flat-square&logo=IntelliJ%20IDEA)](https://www.jetbrains.com/resharper/) [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
 ### ✨  **Overall Status**
 
