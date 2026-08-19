@@ -8,20 +8,20 @@
 
 ![Py](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
 ![Ts](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=fff)
-![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=fff)
 ![React](https://img.shields.io/badge/-React-2d98ce?style=flat-square&logo=React&logoColor=fff)
 ![Fapi](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=fff)
 ![Go](https://img.shields.io/badge/-Go-00add8?style=flat-square&logo=Go&logoColor=fff)
 ![C](https://img.shields.io/badge/-C-a8b9cc?style=flat-square&logo=C&logoColor=fff)
 ![Ray](https://img.shields.io/badge/-Ray-028CF0?style=flat-square&logo=ray&logoColor=fff)
-![linux](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
 ![docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
 ![GA](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=GitHubActions&logoColor=fff)
+![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=fff)
 ![pgsql](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=fff)
-![macos](https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=apple&logoColor=ffffff)
 ![vue](https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=vue.js&logoColor=fff)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=fff)
 ![nj](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=fff)
+![linux](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
+![macos](https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=apple&logoColor=ffffff)
 [![vsc](https://img.shields.io/badge/Tool-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/) 
 ### ✨  **Overall Status**
 
