@@ -23,6 +23,7 @@
 ![linux](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
 ![macos](https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=apple&logoColor=ffffff)
 [![vsc](https://img.shields.io/badge/Tool-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/) 
+
 ### ✨  **Overall Status**
 
 [![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=wojusensei&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
@@ -40,10 +41,23 @@
 
 ## 🦄  **My Activity Graph**
 
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://activity.yumeko.site/graph?username=Wojusensei&theme=xcode&bg_color=FF000000&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://activity.yumeko.site/graph?username=Wojusensei&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
+        <img src="https://activity.yumeko.site/graph?username=Wojusensei&theme=xcode&bg_color=FF000000&hide_border=true" />
+      </picture>
+    </td>
+  </tr>
+</table>
+<!--
 <p align="center">
-    <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
+    <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -- > 
     <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Wojusensei&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="activity graph" title="activity graph"/>
 </p>
+-->
 
 ## ⭐️  **Work Log**
 <p align="center">
@@ -56,6 +70,7 @@
       width="771" height="auto">
   </picture>
 </p>
+
 
 ## 💫  **My Contributions**
 
