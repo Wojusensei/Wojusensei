@@ -83,16 +83,3 @@
 ## test
   [![Wojusensei's GitHub stats](https://github-stats-extended.vercel.app/api/?username=Wojusensei&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Wojusensei's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github-stats-extended.vercel.app/api/?username=Wojusensei&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Wojusensei's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)
   -->
-
-  📈 **My Stats**
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=277260326&image_size=auto&color_scheme=dark"
-      width="771" height="auto">
-    <img alt="Dashboard stats"
-      src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=277260326&image_size=auto&color_scheme=light"
-      width="771" height="auto">
-  </picture>
-</p>
