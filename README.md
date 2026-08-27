@@ -34,7 +34,7 @@
 [![QQ](https://img.icons8.com/color/48/000000/qq.png)](https://qm.qq.com/cgi-bin/qm/qr?k=cI0er3PAf5cVGgmrz0JoNPr67vy3Sr-N&jump_from=webapi&authKey=bXt5xv3V7PcQhdKUBJGkxihzbCCElrSYLWaiKtPbSZ8p9JcwGAwml2h//y4Y2n5U)：This is a student organization focused on game development, music production, band arrangement, and ACG culture exchange. Founded by me in 2024, its primarily composed of college students. If ur interested in software development, bands, or ACG culture, ur welcome to join our QQ group. When applying, plz provide a detailed description of ur interest in joining, which will help our moderators review ur application.Looking forward to having u :)
 
 <!-- 
-  如果你看到这个：这个组织实际上人数一直保持在两位数左右，活跃成员一只手就能数得过来 QAQ
+  如果你看到这个：本组织在github的组织其实是个空壳，到目前为止还没有集中开源的项目。 编辑于2026.08.28
 -->
 
 ## 🦄  **My Activity Graph**
