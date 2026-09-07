@@ -21,6 +21,7 @@
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=fff)
 ![nj](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=fff)
 ![linux](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
+![🍥](https://img.shields.io/badge/Debian%2013-%20?style=flat-square&logo=debian&logoColor=white&color=A81D33)
 ![macos](https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=apple&logoColor=ffffff)
 [![vsc](https://img.shields.io/badge/Tool-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/) 
 
