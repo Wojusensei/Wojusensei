@@ -61,6 +61,9 @@
 -->
 
 
+
+<!--
+
 ## ⭐️  **Work Log**
 <p align="center">
   <picture>
@@ -72,6 +75,9 @@
       width="771" height="auto">
   </picture>
 </p>
+
+
+-->
 
 
 ## 💫  **My Contributions**
